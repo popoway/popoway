@@ -11,7 +11,7 @@ Connect: ming.fyi/linkedin or hello@popoway.cloud
 Fun fact: This Markdown is ADA compliant and screen reader friendly :)
 -->
 
-<h1 align="center">Hello there <img src="./assets/hi-twice.gif" width="40px" alt="waving hands emoji" /> Welcome to Ming's GitHub Profile!</h1>
+<h1 align="center">Hello there <img src="./assets/hi-twice.gif" width="40" alt="waving hands emoji" /> Welcome to Ming's GitHub Profile!</h1>
 
 <div>
   <a href="https://ming.fyi/sconli" target="_blank">
