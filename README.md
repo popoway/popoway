@@ -35,11 +35,11 @@ Fun fact: This Markdown is ADA compliant and screen reader friendly :)
 </div>
 </br>
 
-I am a recent computer science graduate who loves building web and data-driven applications. During my undergraduate studies as a student leader and coding enthusiast, I spearhead [Let's Talk Python](https://ming.fyi/linkedin) Club on campus, organized and attended multiple [hackathons](https://ming.fyi/portfolio), and enjoy contributing to [open source projects](https://github.com/popoway?tab=repositories).
+I am a *current* computer science master student and a recent full-time software engineer who loves building web and data-driven applications. During my undergraduate studies as a student leader and coding enthusiast, I spearhead [Let's Talk Python](https://ming.fyi/linkedin) Club on campus, organized and attended multiple [hackathons](https://ming.fyi/portfolio), and enjoy contributing to [open source projects](https://github.com/popoway?tab=repositories).
 
 <details>
   <summary><samp>Read More</samp></summary>
-  I mainly use Node.js and Golang at my current full-time work. macOS is my main workstation, though my servers are powered by RHEL/CentOS and Debian, and I started using Windows since 4. During my internship at CUNY I primarily used PHP, Django in Python and PoatgreSQL Learn more at my <a href="https://ming.fyi/portfolio" target="_blank">portfolio</a>.
+  I mainly use Node.js and Golang at my previous full-time work. My main workstation runs on macOS, though cloud servers are powered by RHEL/CentOS and Debian. During my internship at CUNY I primarily used PHP, Django in Python and PoatgreSQL. <br /> Learn more at my <a href="https://ming.fyi/portfolio" target="_blank">portfolio</a>.
   <a href="https://ming.fyi/sconkb" target="_blank">
     <img src="https://img.shields.io/keybase/btc/popoway" alt="Keybase BTC" title="Keybase BTC" />
   </a>
@@ -48,13 +48,14 @@ I am a recent computer science graduate who loves building web and data-driven a
 
 <div>
   <a href="https://github.com/popoway?tab=repositories&q=&type=&language=javascript">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=popoway&theme=tokyonight&langs_count=8&hide=hack,html&custom_title=Ming%27s%20Most%20Used%20Languages" alt="List of Ming's Most Used Languages" title="List of Ming's Most Used Languages" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=popoway&theme=transparent&langs_count=8&hide=html&custom_title=Ming%27s%20Most%20Used%20Languages" alt="List of Ming's Most Used Languages" title="List of Ming's Most Used Languages" />
   </a>
   <a href="https://github.com/popoway#js-contribution-activity">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=popoway&show_icons=true&count_private=true&hide=stars&theme=tokyonight&custom_title=Ming%27s%20Overall%20GitHub%20Stats" alt="Summary of Ming's GitHub Stats" title="Summary of Ming's GitHub Stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=popoway&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=transparent&custom_title=Ming%27s%20Overall%20GitHub%20Stats" alt="Summary of Ming's GitHub Stats" title="Summary of Ming's GitHub Stats" />
   </a>
   <a href="https://wakatime.com/@popoway">
-    <img align="left" style="margin-top: 3px" src="https://github-readme-stats.vercel.app/api/wakatime?username=popoway&theme=tokyonight&custom_title=Ming%27s%20Wakatime%20Weekly%20Stats" alt="Summary of Ming's Wakatime Weekly Stats" title="Summary of Ming's Wakatime Weekly Stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=popoway&theme=transparent&layout=compact&custom_title=Ming%27s%20Wakatime%20Weekly%20Stats" alt="Summary of Ming's Wakatime Weekly Stats" title="Summary of Ming's Wakatime Weekly Stats" />
   </a>
 </div>
+
 
