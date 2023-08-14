@@ -51,7 +51,7 @@ I am a *current* computer science master student and a recent full-time software
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=popoway&theme=transparent&langs_count=8&hide=html&custom_title=Ming%27s%20Most%20Used%20Languages" alt="List of Ming's Most Used Languages" title="List of Ming's Most Used Languages" />
   </a>
   <a href="https://github.com/popoway#js-contribution-activity">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=popoway&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=transparent&custom_title=Ming%27s%20Overall%20GitHub%20Stats" alt="Summary of Ming's GitHub Stats" title="Summary of Ming's GitHub Stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=popoway&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=transparent&custom_title=Ming%27s%20Overall%20GitHub%20Stats&hide_rank=true" alt="Summary of Ming's GitHub Stats" title="Summary of Ming's GitHub Stats" />
   </a>
   <a href="https://wakatime.com/@popoway">
     <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=popoway&theme=transparent&layout=compact&custom_title=Ming%27s%20Wakatime%20Weekly%20Stats" alt="Summary of Ming's Wakatime Weekly Stats" title="Summary of Ming's Wakatime Weekly Stats" />
