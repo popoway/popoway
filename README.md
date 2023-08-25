@@ -35,16 +35,7 @@ Fun fact: This Markdown is ADA compliant and screen reader friendly :)
 </div>
 </br>
 
-I am a *current* computer science master student and a recent full-time software engineer who loves building web and data-driven applications. During my undergraduate studies as a student leader and coding enthusiast, I spearhead [Let's Talk Python](https://ming.fyi/linkedin) Club on campus, organized and attended multiple [hackathons](https://ming.fyi/portfolio), and enjoy contributing to [open source projects](https://github.com/popoway?tab=repositories).
-
-<details>
-  <summary><samp>Read More</samp></summary>
-  I mainly use Node.js and Golang at my previous full-time work. My main workstation runs on macOS, though cloud servers are powered by RHEL/CentOS and Debian. During my internship at CUNY I primarily used PHP, Django in Python and PoatgreSQL. <br /> Learn more at my <a href="https://ming.fyi/portfolio" target="_blank">portfolio</a>.
-  <a href="https://ming.fyi/sconkb" target="_blank">
-    <img src="https://img.shields.io/keybase/btc/popoway" alt="Keybase BTC" title="Keybase BTC" />
-  </a>
-
-</details>
+I am a *current* computer science graduate student and a recent full-time software engineer who loves building web and data-driven applications. During my undergraduate studies as a student leader and coding enthusiast, I spearhead [Let's Talk Python](https://ming.fyi/linkedin) Club on campus, organized and attended multiple [hackathons](https://ming.fyi/portfolio), and enjoy contributing to [open source projects](https://github.com/popoway?tab=repositories).
 
 <div>
   <a href="https://github.com/popoway?tab=repositories&q=&type=&language=javascript">
