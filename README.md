@@ -7,7 +7,7 @@
 |_|         |_|                       |___/
 Source available on: https://github.com/popoway/popoway 
 Enjoy it? Like and fork it!
-Connect: ming.fyi/linkedin or hello@popoway.cloud
+Connect: ming.fyi/linkedin or ming@popoway.com
 Fun fact: This Markdown is ADA compliant and screen reader friendly :)
 -->
 
