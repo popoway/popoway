@@ -30,7 +30,7 @@ Fun fact: This Markdown is ADA compliant and screen reader friendly :)
     <img align="right" src="https://img.shields.io/github/followers/popoway" alt="GitHub followers" title="GitHub followers" />
   </a>
   <a href="#">
-    <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=popoway.popoway&user=popoway" alt="Ming's Vistor Stats" title="Ming's Vistor Stats" />
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=popoway.popoway&user=popoway" alt="Ming's Vistor Stats" title="Ming's Vistor Stats" />
   </a>
 </div>
 </br>
