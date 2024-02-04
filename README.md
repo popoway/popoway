@@ -35,7 +35,7 @@ Fun fact: This Markdown is ADA compliant and screen reader friendly :)
 </div>
 </br>
 
-I am a *current* computer science graduate student and a recent full-time software engineer who loves building web and data-driven applications. During my undergraduate studies as a student leader and coding enthusiast, I spearhead [Let's Talk Python](https://ming.fyi/linkedin) Club on campus, organized and attended multiple [hackathons](https://ming.fyi/portfolio), and enjoy contributing to [open source projects](https://github.com/popoway?tab=repositories).
+I am a *current* computer science graduate student and a recent full-time software engineer who loves building web and data-driven applications. During my undergraduate studies as a student leader and coding enthusiast, I spearhead [Let's Talk Python](https://ming.fyi/linkedin) Club on campus, organized and won multiple [hackathons](https://ming.fyi/portfolio), and enjoy contributing to [open source projects](https://github.com/popoway?tab=repositories).
 
 <div>
   <a href="https://github.com/popoway?tab=repositories&q=&type=&language=javascript">
